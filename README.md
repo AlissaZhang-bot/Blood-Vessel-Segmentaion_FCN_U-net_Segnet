@@ -1,7 +1,7 @@
 # Blood Vessel Segmentaion Using FCN, U-net and Segnet
 #### implement a Python solution to segment blood vessels in retinal images, using a subset of the DRIVE database.
 
-#### Task implementation:
+##### Task implementation:
 ##### For this task, you may employ a wide range of supervised and unsupervised segmentation techniques and their hybrids, along with appropriate pre- and post-processing techniques. Some of the relevant publications are provided as supplementary materials to this project only as a guidance.
 
 ##### Data Provided:
